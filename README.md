@@ -1,71 +1,13 @@
-Template for creating and submitting MAT496 capstone project.
+# Capstone Project Report
 
-# Overview of MAT496
-
-In this course, we have primarily learned Langgraph. This is helpful tool to build apps which can process unstructured `text`, find information we are looking for, and present the format we choose. Some specific topics we have covered are:
-
-- Prompting
-- Structured Output 
-- Semantic Search
-- Retreaval Augmented Generation (RAG)
-- Tool calling LLMs & MCP
-- Langgraph: State, Nodes, Graph
-
-We also learned that Langsmith is a nice tool for debugging Langgraph codes.
-
-------
-
-# Capstone Project objective
-
-The first purpose of the capstone project is to give a chance to revise all the major above listed topics. The second purpose of the capstone is to show your creativity. Think about all the problems which you can not have solved earlier, but are not possible to solve with the concepts learned in this course. For example, We can use LLM to analyse all kinds of news: sports news, financial news, political news. Another example, we can use LLMs to build a legal assistant. Pretty much anything which requires lots of reading, can be outsourced to LLMs. Let your imagination run free.
-
-
--------------------------
-
-# Project report Template
-
-## Title: [your title goes here]
+## Title: AI Event Planner - Intelligent Event Planning System using LLMs
 
 ## Overview
 
-[your overview goes here. My project does this that  etc]
+This project is an AI-powered event planning assistant that helps users create complete event plans just by describing what they need in plain English. For example, if you say "Plan a birthday party for 30 people," the system automatically generates everything you need: a guest list, schedule, budget breakdown, menu suggestions, venue recommendations, and even a shopping list. It works by understanding your request, finding similar past events, and using that knowledge to create a personalized plan tailored to your needs.
 
 ## Reason for picking up this project
 
-Expain how this project is aligned with this course content.
+This project perfectly demonstrates all the key concepts we learned in this course. Event planning requires understanding natural language (Prompting), organizing information into structured formats (Structured Output), finding relevant examples from past events (Semantic Search), using those examples to improve suggestions (RAG), performing calculations like budget estimates (Tool Calling), managing a multi-step planning process (LangGraph), and debugging the entire workflow (LangSmith). 
 
-## Plan
-
-I plan to excecute these steps to complete my project.
-
-- [TODO] Step 1 involves blah blah
-- [TODO] Step 2 involves blah blah
-- [TODO] Step 3 involves blah blah
-- ...
-- [TODO] Step n involves blah blah
-
-## Conclusion:
-
-I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
-
-----------
-
-# Added instructions:
-
-- This is a `solo assignment`. Each of you will work alone. You are free to talk, discuss with chatgpt, but you are responsible for what you submit. Some students may be called for viva. You should be able to each and every line of work submitted by you.
-
-- `commit` History maintenance.
-  - Fork this respository and build on top of that.
-  - For every step in your plan, there has to be a commit.
-  - Change [TODO] to [DONE] in the plan, before you commit after that step. 
-  - The commit history should show decent amount of work spread into minimum two dates. 
-  - **All the commits done in one day will be rejected**. Even if you are capable of doing the whole thing in one day, refine it in two days.  
- 
- - Deadline: Nov 30, Sunday 11:59 pm
-
-
-# Grading: total 25 marks
-
-- Coverage of most of topics in this class: 20
-- Creativity: 5
-  
+I chose this project because event planning is something everyone can relate to, we've all struggled with organizing parties, meetings, or celebrations. By applying LLM concepts to this real-world problem, I can show how these technologies can make complex planning tasks much easier and more accessible to everyone.
