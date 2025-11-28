@@ -25,7 +25,7 @@ I plan to execute these steps to complete my project:
 3. **Lock in the data shapes**  DONE
    - Define Pydantic models (guest, schedule item, budget line, etc.) and create a LangGraph `State` TypedDict so every node reads/writes structured information instead of raw strings.
 
-4. **Give it some memory**  
+4. **Give it some memory**  DONE
    - Build a tiny dataset of sample events, embed them, and store them in Chroma so we can fetch “similar past plans” whenever a new request comes in.
 
 5. **Ground the planning with RAG**  
