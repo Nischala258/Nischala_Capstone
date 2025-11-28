@@ -28,7 +28,7 @@ I plan to execute these steps to complete my project:
 4. **Give it some memory**  DONE
    - Build a tiny dataset of sample events, embed them, and store them in Chroma so we can fetch “similar past plans” whenever a new request comes in.
 
-5. **Ground the planning with RAG**  
+5. **Ground the planning with RAG**  DONE
    - Add a retrieval node that pulls the top templates, and a RAG node that blends those templates into the planning prompt so the model reuses good ideas instead of hallucinating.
 
 6. **Add practical helpers**  
