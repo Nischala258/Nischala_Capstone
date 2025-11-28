@@ -19,7 +19,7 @@ I plan to execute these steps to complete my project:
 1. **Start with the scope**  DONE
    - Jot down the event types we want to support, what outputs each plan should include, and collect a few sample layouts so we aren’t starting from scratch.
 
-2. **Teach the model to understand the user**  
+2. **Teach the model to understand the user**  DONE
    - I’ll write two small prompts: one to classify the intent (“birthday party”, “corporate dinner”, etc.) and another to cleanly extract the date, guest count, budget, and any must-haves from the user text.
 
 3. **Lock in the data shapes**  
