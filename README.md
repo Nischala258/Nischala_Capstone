@@ -22,7 +22,7 @@ I plan to execute these steps to complete my project:
 2. **Teach the model to understand the user**  DONE
    - I’ll write two small prompts: one to classify the intent (“birthday party”, “corporate dinner”, etc.) and another to cleanly extract the date, guest count, budget, and any must-haves from the user text.
 
-3. **Lock in the data shapes**  
+3. **Lock in the data shapes**  DONE
    - Define Pydantic models (guest, schedule item, budget line, etc.) and create a LangGraph `State` TypedDict so every node reads/writes structured information instead of raw strings.
 
 4. **Give it some memory**  
