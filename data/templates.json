@@ -1,0 +1,150 @@
+{
+  "event_templates": [
+    {
+      "event_type": "birthday_party",
+      "sample_menus": [
+        {
+          "appetizers": ["Paneer Tikka", "Chicken Wings", "Spring Rolls"],
+          "main_course": ["Biryani", "Butter Chicken", "Dal Makhani", "Naan"],
+          "desserts": ["Birthday Cake", "Gulab Jamun", "Ice Cream"],
+          "beverages": ["Soft Drinks", "Juice", "Tea/Coffee"]
+        }
+      ],
+      "typical_activities": [
+        "Welcome & Greetings",
+        "Games/Entertainment",
+        "Cake Cutting",
+        "Dinner",
+        "Music/Dancing",
+        "Gift Exchange"
+      ],
+      "decoration_themes": [
+        "Colorful balloons and banners",
+        "Fairy lights",
+        "Photo backdrop",
+        "Themed decorations"
+      ],
+      "budget_guidelines": {
+        "per_person": 500,
+        "minimum": 10000,
+        "categories": {
+          "food": 0.4,
+          "decor": 0.2,
+          "venue": 0.2,
+          "entertainment": 0.15,
+          "misc": 0.05
+        }
+      }
+    },
+    {
+      "event_type": "corporate_event",
+      "sample_menus": [
+        {
+          "appetizers": ["Canapés", "Mini Samosas", "Cheese Platter"],
+          "main_course": ["Multi-course meal", "Salad", "Main dish", "Bread"],
+          "desserts": ["Dessert platter", "Fruit"],
+          "beverages": ["Wine", "Beer", "Soft drinks", "Coffee"]
+        }
+      ],
+      "typical_activities": [
+        "Networking",
+        "Welcome Address",
+        "Dinner",
+        "Speeches/Presentations",
+        "Awards/Recognition",
+        "Networking"
+      ],
+      "decoration_themes": [
+        "Professional and elegant",
+        "Company branding",
+        "Formal table settings",
+        "Minimalist decor"
+      ],
+      "budget_guidelines": {
+        "per_person": 1000,
+        "minimum": 30000,
+        "categories": {
+          "food": 0.5,
+          "venue": 0.3,
+          "decor": 0.1,
+          "entertainment": 0.05,
+          "misc": 0.05
+        }
+      }
+    },
+    {
+      "event_type": "baby_shower",
+      "sample_menus": [
+        {
+          "appetizers": ["Sandwiches", "Finger foods", "Fruit platter"],
+          "main_course": ["Light meal", "Salad"],
+          "desserts": ["Cake", "Cupcakes", "Cookies"],
+          "beverages": ["Juice", "Tea", "Coffee", "Mocktails"]
+        }
+      ],
+      "typical_activities": [
+        "Welcome",
+        "Games (Baby-themed)",
+        "Cake Cutting",
+        "Gift Opening",
+        "Refreshments",
+        "Photo Session"
+      ],
+      "decoration_themes": [
+        "Pastel colors",
+        "Baby-themed items",
+        "Balloons",
+        "Banners"
+      ],
+      "budget_guidelines": {
+        "per_person": 400,
+        "minimum": 8000,
+        "categories": {
+          "food": 0.5,
+          "decor": 0.25,
+          "venue": 0.15,
+          "entertainment": 0.05,
+          "misc": 0.05
+        }
+      }
+    },
+    {
+      "event_type": "farewell_party",
+      "sample_menus": [
+        {
+          "appetizers": ["Snacks", "Chips", "Dips"],
+          "main_course": ["Casual dinner", "Pizza", "Pasta"],
+          "desserts": ["Cake", "Ice cream"],
+          "beverages": ["Soft drinks", "Beer", "Juice"]
+        }
+      ],
+      "typical_activities": [
+        "Gathering",
+        "Speeches/Tributes",
+        "Dinner",
+        "Music",
+        "Photo Session",
+        "Farewell"
+      ],
+      "decoration_themes": [
+        "Casual and warm",
+        "Photo displays",
+        "Memorabilia",
+        "Simple decorations"
+      ],
+      "budget_guidelines": {
+        "per_person": 400,
+        "minimum": 6000,
+        "categories": {
+          "food": 0.5,
+          "venue": 0.2,
+          "decor": 0.15,
+          "entertainment": 0.1,
+          "misc": 0.05
+        }
+      }
+    }
+  ]
+}
+
+

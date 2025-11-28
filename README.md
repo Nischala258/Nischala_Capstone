@@ -16,7 +16,7 @@ I chose this project because event planning is something everyone can relate to,
 
 I plan to execute these steps to complete my project:
 
-1. **Start with the scope**  
+1. **Start with the scope**  DONE
    - Jot down the event types we want to support, what outputs each plan should include, and collect a few sample layouts so we aren’t starting from scratch.
 
 2. **Teach the model to understand the user**  
