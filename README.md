@@ -37,5 +37,5 @@ I plan to execute these steps to complete my project:
 7. **Stitch it together with LangGraph**  DONE
    - Wire the nodes in order (intent → extraction → retrieval → RAG → tools → schedule → formatter) and make sure each step updates the shared state for the next one.
 
-8. **Make it runnable for anyone**  
+8. **Make it runnable for anyone**  DONE
    - Build a friendly CLI (`main.py`) that loads `.env`, optionally enables LangSmith tracing, asks for a request, and prints both a human summary and the JSON output (with at least one demo input baked in).
