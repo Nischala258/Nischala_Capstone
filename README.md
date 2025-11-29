@@ -34,7 +34,7 @@ I plan to execute these steps to complete my project:
 6. **Add practical helpers**  DONE
    - Implement a budget calculator, guest-capacity checker, and menu cost estimator, plus a simple schedule builder so every plan returns realistic numbers and a timeline.
 
-7. **Stitch it together with LangGraph**  
+7. **Stitch it together with LangGraph**  DONE
    - Wire the nodes in order (intent → extraction → retrieval → RAG → tools → schedule → formatter) and make sure each step updates the shared state for the next one.
 
 8. **Make it runnable for anyone**  
