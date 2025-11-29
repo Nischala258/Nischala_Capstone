@@ -31,7 +31,7 @@ I plan to execute these steps to complete my project:
 5. **Ground the planning with RAG**  DONE
    - Add a retrieval node that pulls the top templates, and a RAG node that blends those templates into the planning prompt so the model reuses good ideas instead of hallucinating.
 
-6. **Add practical helpers**  
+6. **Add practical helpers**  DONE
    - Implement a budget calculator, guest-capacity checker, and menu cost estimator, plus a simple schedule builder so every plan returns realistic numbers and a timeline.
 
 7. **Stitch it together with LangGraph**  
