@@ -43,3 +43,7 @@ I plan to execute these steps to complete my project:
 # Conclusion
 
 I planned to build an AI Event Planner that demonstrates key LLM concepts (prompting, structured output, semantic search, RAG, tool calling, LangGraph, and LangSmith) by creating a system that generates complete event plans from natural language requests. **I have achieved this goal satisfactorily** - all eight planned steps are implemented, and the system works end-to-end, generating structured plans with schedules, budgets, menus, and shopping lists. The project successfully showcases how these LLM concepts work together in a cohesive, real-world application. While there's room for improvement (better error handling, persistent storage, more templates), the core functionality is complete and demonstrates the concepts effectively.
+
+
+# Video Link
+https://drive.google.com/file/d/1eBwpXn8IkBqhm4Neq0zDjRioa4oOUQEH/view?usp=sharing
